@@ -1,3 +1,8 @@
+
+body{
+    background-color: #333;
+}
+
 #banner { 
     background-color: #333;
     height: 76px;
@@ -33,4 +38,11 @@
     font-size: 12px ; 
     font-weight: bold;
     font-family: "Helvetica Neue", sans-serif;
+} 
+
+#sabores-pizzas h2 {
+    color: #ffff;
+    font-family: "Helvetica Neue", sans-serif;
+    text-align: center; 
+    text-transform: uppercase;
 }
